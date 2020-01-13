@@ -1,4 +1,4 @@
-package com.github.aaric.ts.settings;
+package com.github.aaric.ots.settings;
 
 import lombok.Getter;
 import lombok.Setter;

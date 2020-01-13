@@ -29,3 +29,10 @@ logging:
 spring:
   profiles:
     active: dev
+
+# Table store settings
+tablestore:
+  endPoint: yourendpoint
+  accessKeyId: youraccesskeyid
+  accessKeySecret: youraccesskeysecret
+  instanceName: yourinstancename

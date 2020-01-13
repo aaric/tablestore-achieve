@@ -1,4 +1,4 @@
-package com.github.aaric.ts;
+package com.github.aaric.ots;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

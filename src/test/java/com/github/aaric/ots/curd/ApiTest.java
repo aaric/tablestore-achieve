@@ -24,9 +24,9 @@ import java.text.MessageFormat;
 @ExtendWith(SpringExtension.class)
 public class ApiTest {
 
-    public static final String TABLE_NAME = "telemetry";
-    public static final String PRIMARY_KEY_NAME = "rowkey";
-    public static final String DATA_KEY_NAME = "data";
+    public static final String TABLE_NAME = "telemetry_test";
+    public static final String PRIMARY_KEY_NAME = "key";
+    public static final String DATA_KEY_NAME = "value";
 
     @Autowired
     private TableStoreProperties tableStoreProperties;
